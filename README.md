@@ -36,7 +36,8 @@ sudo dnf install fontconfig-enhanced-defaults fontconfig-font-replacements
 
 Install:
 ```
-sudo dnf install vim gnome-tweaks tilix keepassxc @development-tools p7zip
+sudo dnf install vim gnome-tweaks tilix keepassxc p7zip
+sudo dnf install @development-tools
 ```
 
 ### VSCode
