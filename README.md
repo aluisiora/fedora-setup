@@ -48,6 +48,14 @@ sudo dnf check-update
 sudo dnf install code
 ```
 
+## Simplenote
+
+[https://github.com/Automattic/simplenote-electron/releases](https://github.com/Automattic/simplenote-electron/releases)
+
+## ASDF
+
+[https://asdf-vm.com/#/](https://asdf-vm.com/#/)
+
 ### Flathub
 
 ```
